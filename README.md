@@ -2,7 +2,9 @@
 <a href="https://jordan-lor.github.io/Blinky-Book/book/blinkybook/index.html#page/1">
 View Blinky Book
 </a>
-
+</a>
+</a>
+</a>
 <h2>Project Two: NAME HERE</h2>
 
 
