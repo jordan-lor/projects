@@ -1,7 +1,9 @@
 title: Jordan Lor
 description: Projects I have been involved in.
 show_downloads: false
-github:
-  is_project_page: false
 google_analytics:
 theme: jekyll-theme-modernist
+
+</> YAML
+github:
+  is_project_page: false
