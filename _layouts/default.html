@@ -6,7 +6,24 @@
 
 {% seo %}
 
-    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+/* Make the page wider */
+.wrapper {
+max-width: 1200px !important;
+width: 95% !important;
+}
+
+/* Let main content expand */
+section {
+max-width: 100% !important;
+width: 100% !important;
+}
+
+/* Make iframe responsive */
+iframe {
+width: 100%;
+height: 700px;
+border: none;
+}
     <script src="{{ '/assets/js/scale.fix.js' | relative_url }}"></script>
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
 
