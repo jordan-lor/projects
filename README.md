@@ -3,7 +3,7 @@
 View Blinky Book
 </a>
 <iframe 
-  src="https://username.github.io/book-repo/](https://jordan-lor.github.io/Blinky-Book/book/blinkybook/index.html"
+  src="[https://username.github.io/book-repo/](https://jordan-lor.github.io/Blinky-Book/book/blinkybook/index.html](https://jordan-lor.github.io/Blinky-Book/book/blinkybook/index.html)"
   width="100%" 
   height="800px"
   style="border:none;">
