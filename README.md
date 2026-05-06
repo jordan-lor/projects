@@ -1,9 +1,9 @@
-<h2>Project One: Blinky Book Testing</h2>
+<h2>Project One: Blinky Book</h2>
 <a href="https://jordan-lor.github.io/Blinky-Book/book/blinkybook/index.html#page/1">
 View Blinky Book
 </a>
 <iframe 
-  src="[https://username.github.io/book-repo/](https://jordan-lor.github.io/Blinky-Book/book/blinkybook/index.html](https://jordan-lor.github.io/Blinky-Book/book/blinkybook/index.html)"
+  src="https://jordan-lor.github.io/Blinky-Book/book/blinkybook/index.html"
   width="100%" 
   height="800px"
   style="border:none;">
